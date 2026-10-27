@@ -88,6 +88,17 @@ Follow the project's Firebase configuration requirements before running the appl
 
 This project demonstrates practical experience in Flutter mobile application development, user interface implementation, shopping cart workflows, order processing, and receipt generation.
 
+## 📱 Application Preview
+
+### Home & Product Catalog
+![Cakelicious Home](home.png)
+
+### Shopping Cart & Checkout
+![Cakelicious Shopping Cart](riwayat-pesanan.png)
+
+### Order Receipt
+![Cakelicious Order Receipt](struk-pesanan.png)
+
 ## 👨‍💻 Developer
 
 **Rifqi Aini Wahdaniyatillahi**
