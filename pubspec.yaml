@@ -1,0 +1,42 @@
+name: cakelicious
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.0.5
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.20.0
+  cloud_firestore: ^4.17.5
+
+  # Pdf
+  pdf: ^3.11.0
+  printing: ^5.11.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+  # icon
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+# konfigurasi icon
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: assets/images/logocakelicious.png
+  min_sdk_android: 21

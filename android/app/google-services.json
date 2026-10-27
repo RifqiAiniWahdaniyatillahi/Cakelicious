@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104300029274",
+    "project_id": "cakelicious-pos",
+    "storage_bucket": "cakelicious-pos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104300029274:android:8870fba448f7ba7e88ff63",
+        "android_client_info": {
+          "package_name": "com.example.cakelicious"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKLRAvZ3PDxDxhs2mK3tshQDfQ6rUeR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104300029274:android:c420397db0c012cf88ff63",
+        "android_client_info": {
+          "package_name": "com.example.cakelicious_pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQKLRAvZ3PDxDxhs2mK3tshQDfQ6rUeR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
